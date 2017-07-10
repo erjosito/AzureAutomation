@@ -3,7 +3,7 @@
         An example runbook which gets all the ARM resources using the Run As Account (Service Principal)
 
     .NOTES
-        AUTHOR: Azure Automation Team
+        AUTHOR: Jose Moreno
         LASTEDIT: Mar 14, 2016
 #>
 
